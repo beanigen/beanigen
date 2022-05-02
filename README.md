@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @protob0i
+- 👋 Hi, I’m @BeanProto
 - 👀 I’m interested in anything FOSS, especially Linux
 - 🌱 I’m currently learning Java and Python
 - 📫 You can reach me on Reddit at u/iWillEatYourKindle

@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BeanProto, your local trans programmer
+- 👋 Hi, I’m @BeanProto, your local trans MtF programmer
 - 👀 I’m interested in anything FOSS, especially Linux
-- 🌱 I’m currently learning Crystal
+- 🌱 I’m currently learning a whole range of things
 - 📫 You can reach me on Reddit at u/iWillEatYourKindle or on Discord at BeanProto#8086
 
 <!---

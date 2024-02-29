@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @beanigen, your local trans gal programmer
+- 👋 Hi, I’m @beanigen, your local trans gal tech enthusiast
 - 👀 I’m interested in anything FOSS, especially Linux
 - 🌱 I’m currently learning a whole range of things
-- 📫 You can reach me on Reddit at u/iWillEatYourKindle or on Discord at BeanProto#8086
+- 📫 You can reach me nowhere
+- ⚠️ I don't do programming or use GitHub much anymore
+  <!-- on Reddit at u/iWillEatYourKindle or on Discord at BeanProto#8086 -->
 
 <!---
 BeanProto/BeanProto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
